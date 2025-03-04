@@ -1,1 +1,1 @@
-# AD-Module-MyAdblock.sgmodule
+自用去广告
