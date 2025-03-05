@@ -28,7 +28,8 @@
 ^https:\/\/m\.10010\.com\/mall-access\/query\/waterfallFlow data-type=text data="{}" status-code=200
 
 #充话费页面
-^https:\/\/upayxx\.10010\.com\/upay-web3\/js\/app\.7d342971\.js data-type=text data="{}" status-code=200
+^https:\/\/upayxx\.10010\.com\/npfwap\/NpfMob\/offerRate\/getSecondCardInfo data-type=text data="{}" status-code=200
+
 ^https:\/\/upay\.10010\.com\/npfwap\/NpfMob\/banner\/configQuery data-type=text data="{}" status-code=200
 #悬浮图标
 ^https:\/\/m\.client\.10010\.com\/mobileserviceNine\/api\/v1\/homeService\/getServiceHomeMarketingBits data-type=text data="{}" status-code=200
