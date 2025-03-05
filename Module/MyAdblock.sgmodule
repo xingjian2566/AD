@@ -23,7 +23,6 @@ URL-REGEX,^https?:\/\/mdn\.alipayobjects\.com\/afts\/img\/A\*.*?\.(avif|webp)\?(
 ^https:\/\/mobile\.caocaokeji\.cn\/cap\/advert-bss\/pullAdvert\/1\.0\.0 data-type=text data=" " status-code=200
 ^https:\/\/cap\.caocaokeji\.cn\/bps\/msgBarAgg\/2\.0 data-type=text data="{}" status-code=200
 
-
 # > 翼支付 开屏广告
 ^https:\/\/mapi-app\.bestpay\.com\.cn\/gapi\/appClient\/noEnc\/unionOpenAds data-type=text data=" " status-code=200
 #我的商品列表
