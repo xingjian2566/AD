@@ -33,3 +33,5 @@
 
 ^https:\/\/m\.10010\.com\/mall-access\/query\/waterfallFlow data-type=text data="{}" status-code=200
 
+[MITM]
+hostname = %APPEND% 
