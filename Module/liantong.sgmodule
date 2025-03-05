@@ -1,6 +1,6 @@
 #!name=联通去广告
 #!desc=联通去广告
-#!catagory
+#!category=世路如今已惯
 
 [Map Local]
 ^https:\/\/m\.client\.10010\.com\/getDataFromService\?methodType=searchScroll data-type=text data="{}" status-code=200
