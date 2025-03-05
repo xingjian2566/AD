@@ -30,7 +30,9 @@
 #充话费页面
 ^https:\/\/upay\.10010\.com\/npfwap\/NpfMob\/offerRate\/getExclusiveBenefits\.action data-type=text data="{}" status-code=200
 ^https:\/\/upay\.10010\.com\/npfwap\/NpfMob\/banner\/configQuery data-type=text data="{}" status-code=200
-#
+#悬浮图标
+^https:\/\/m\.client\.10010\.com\/mobileserviceNine\/api\/v1\/homeService\/getServiceHomeMarketingBits data-type=text data="{}" status-code=200
+
 
 
 [MITM]
