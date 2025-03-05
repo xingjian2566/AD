@@ -1,0 +1,34 @@
+#!name=联通去广告
+#!desc=联通去广告
+#!catagory
+
+[Map Local]
+^https:\/\/m\.client\.10010\.com\/getDataFromService\?methodType=searchScroll data-type=text data="{}" status-code=200
+
+^https:\/\/smartad\.10010\.com\/msupport\/count\/businessLogRecords\.gif data-type=text data="{}" status-code=200
+
+^https:\/\/img\.client\.10010\.com\/homejingxuan11\/js\/chunk data-type=text data="{}" status-code=200
+
+^https:\/\/img\.client\.10010\.com\/homejingxuan11\/js\/zsyhMoren\.c17c8706\.js data-type=text data="{}" status-code=200
+
+^https:\/\/img\.client\.10010\.com\/homejingxuan11\/js\/pubuliu\.c2f254fc\.js data-type=text data="{}" status-code=200
+
+^https:\/\/m\.10010\.com\/homepage\/static\/js\/app\.f9a494a6f5ec528eddc8\.js data-type=text data="{}" status-code=200
+
+^https:\/\/img\.client\.10010\.com\/homejingxuan11\/js\/zsyhLianghao\.5cf3212e\.js data-type=text data="{}" status-code=200
+
+^https:\/\/img\.client\.10010\.com\/homejingxuan11\/js\/zsyhSmallMoren\.113e81e2\.js data-type=text data="{}" status-code=200
+
+^https:\/\/img\.client\.10010\.com\/homejingxuan11\/js\/zsyhRightMoren\.f098a65b\.js data-type=text data="{}" status-code=200
+
+^https:\/\/m\.client\.10010\.com\/mobileserviceNine\/api\/v1\/index\/queryIndexWaterfall data-type=text data="{}" status-code=200
+
+^https:\/\/m\.client\.10010\.com\/mobileService\/customer\/accountListData\.htm data-type=text data="{}" status-code=200
+
+^https:\/\/m\.client\.10010\.com\/mobileserviceNine\/api\/v1\/index\/queryOMO data-type=text data="{}" status-code=200
+
+^https:\/\/m\.client\.10010\.com\/mobileserviceNine\/api\/v1\/index\/queryIndexExclusiveOffers data-type=text data="{}" status-code=200
+
+^https:\/\/m\.client\.10010\.com\/mobileserviceNine\/homefusion\/fuInter data-type=text data="{}" status-code=200
+
+^https:\/\/m\.10010\.com\/mall-access\/query\/waterfallFlow data-type=text data="{}" status-code=200
