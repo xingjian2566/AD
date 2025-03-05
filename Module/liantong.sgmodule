@@ -40,4 +40,4 @@
 
 
 [MITM]
-hostname = %APPEND% smartad.10010.com, img.client.10010.com, m.client.10010.com, m.10010.com,upay.10010.com,
+hostname = %APPEND% smartad.10010.com, img.client.10010.com, m.client.10010.com, m.10010.com,upay.10010.com,upayxx.10010.com
