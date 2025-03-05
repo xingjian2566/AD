@@ -32,7 +32,10 @@
 ^https:\/\/upay\.10010\.com\/npfwap\/NpfMob\/banner\/configQuery data-type=text data="{}" status-code=200
 #悬浮图标
 ^https:\/\/m\.client\.10010\.com\/mobileserviceNine\/api\/v1\/homeService\/getServiceHomeMarketingBits data-type=text data="{}" status-code=200
-#
+#推荐tab
+^https:\/\/m\.client\.10010\.com\/mobileserviceNine\/api\/v1\/index\/queryIndexCfig\/076\/761 data-type=text data="{}" status-code=200
+
+
 
 
 [MITM]
