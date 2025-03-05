@@ -32,7 +32,10 @@
 
 ^https:\/\/m\.10010\.com\/mall-access\/query\/waterfallFlow data-type=text data="{}" status-code=200
 
-#
+#充话费页面
+^https:\/\/upay\.10010\.com\/npfwap\/NpfMob\/offerRate\/getExclusiveBenefits\.action data-type=text data="{}" status-code=200
+
+
 
 [MITM]
-hostname = %APPEND% smartad.10010.com, img.client.10010.com, m.client.10010.com, m.10010.com,
+hostname = %APPEND% smartad.10010.com, img.client.10010.com, m.client.10010.com, m.10010.com,upay.10010.com,
