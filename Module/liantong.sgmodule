@@ -32,5 +32,7 @@
 
 ^https:\/\/m\.10010\.com\/mall-access\/query\/waterfallFlow data-type=text data="{}" status-code=200
 
+#
+
 [MITM]
 hostname = %APPEND% smartad.10010.com, img.client.10010.com, m.client.10010.com, m.10010.com,
