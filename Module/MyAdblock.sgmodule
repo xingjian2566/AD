@@ -2,15 +2,6 @@
 #!desc=自用去广告
 #!category=世路如今已惯
 
-
-[Rule]
-#助理去广告
-URL-REGEX,^https://ilce\.alicdn\.com/minolta/.+\.(png|jpg)\?.*content=.*attrs.*value.*,REJECT
-URL-REGEX,^https://mdn\.alipayobjects\.com/ad_mgr/.*,REJECT
-URL-REGEX,^https://yaozuji\.oss-cn-hangzhou\.aliyuncs\.com/uploads/.*,REJECT
-URL-REGEX,^https?:\/\/mdn\.alipayobjects\.com\/afts\/img\/A\*.*?\.(avif|webp)\?(.*&)?bz=cdp_biz(&.*|$),REJECT
-
-
 [Map Local]
 # > 曹操出行
 ^https:\/\/ccimgs\.oss\.aliyuncs\.com\/\/advert\/picture data-type=text data="{}" status-code=200
