@@ -2,6 +2,10 @@
 #!desc=自用去广告
 #!category=世路如今已惯
 
+[Rule]
+
+
+
 [Map Local]
 # > 曹操出行
 ^https:\/\/ccimgs\.oss\.aliyuncs\.com\/\/advert\/picture data-type=text data="{}" status-code=200
