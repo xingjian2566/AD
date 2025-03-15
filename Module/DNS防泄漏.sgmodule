@@ -5,8 +5,8 @@
 #!keyword=坐看云起时
 #!tag=DNS
 #!loon_version=3.2.4(787)
-#!homepage=https://github.com/luestr/ProxyResource/blob/main/README.md
 #!date=2024-11-28 00:00:00
+#因为Surge无法转换，只好上传到Github上，
 
 [Rule]
 # DNS Leak from Shadowrocket Default
