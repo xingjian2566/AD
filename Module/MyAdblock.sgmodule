@@ -12,6 +12,9 @@ URL-REGEX,^https?:\/\/mdn\.alipayobjects\.com\/afts\/img\/A\*.*?\.(avif|webp)\?(
 
 
 [Map Local]
+# > 助理生活
+^https:\/\/m5-zhuli\.whxinna\.com\/ad_manage\/get_ad_placement data-type=text data="{}" status-code=200
+
 # > 曹操出行
 ^https:\/\/ccimgs\.oss\.aliyuncs\.com\/\/advert\/picture data-type=text data="{}" status-code=200
 ^https:\/\/cap\.caocaokeji\.cn\/advert-bss\/pullAdvertMaterial data-type=text data="{}" status-code=200
@@ -63,4 +66,4 @@ URL-REGEX,^https?:\/\/mdn\.alipayobjects\.com\/afts\/img\/A\*.*?\.(avif|webp)\?(
 
 
 [MITM]
-hostname = mapi-app.bestpay.com.cn,oss.bestpay.cn,yyfapi.huatu.com,ustatic.ulecdn.com,www.ule.com,mdn.alipayobjects.com,ilce.alicdn.com,zhuli.whxinna.com,home-yd.chaoxing.com,appgoad.189.cn,appgo.189.cn,learn.chaoxing.com,mobile.iqihang.com,image-prod.iqihang.com,guide-acs.m.taobao.com,learn.chaoxing.com,cdn.cnbj1.fds.api.mi-img.com,img.youpin.mi-img.com,mgm.meituan.com,ccimgs.oss.aliyuncs.com,cap.caocaokeji.cn,cdncc-frontend.caocaokeji.cn,ccimgs.oss-cn-hangzhou.aliyuncs.com,mobile.caocaokeji.cn,cospimgs-cdn.caocaokeji.cn,cap.caocaokeji.cn
+hostname = mapi-app.bestpay.com.cn,oss.bestpay.cn,yyfapi.huatu.com,ustatic.ulecdn.com,www.ule.com,mdn.alipayobjects.com,ilce.alicdn.com,zhuli.whxinna.com,home-yd.chaoxing.com,appgoad.189.cn,appgo.189.cn,learn.chaoxing.com,mobile.iqihang.com,image-prod.iqihang.com,guide-acs.m.taobao.com,learn.chaoxing.com,cdn.cnbj1.fds.api.mi-img.com,img.youpin.mi-img.com,mgm.meituan.com,ccimgs.oss.aliyuncs.com,cap.caocaokeji.cn,cdncc-frontend.caocaokeji.cn,ccimgs.oss-cn-hangzhou.aliyuncs.com,mobile.caocaokeji.cn,cospimgs-cdn.caocaokeji.cn,cap.caocaokeji.cn,m5-zhuli.whxinna.com
